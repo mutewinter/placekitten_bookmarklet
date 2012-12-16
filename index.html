@@ -70,22 +70,30 @@
       .money li {
         margin-top: 10px;
       }
+
+      .maintained {
+        clear: both;
+        text-align: right;
+        margin-bottom: 3px;
+        opacity: 0.7;
+      }
+
+      .center {
+        text-align: center;
+      }
     </style>
 
   </head>
   <body>
 
     <div class="wrapper">
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="https://github.com/mutewinter/placekitten_bookmarklet">View On GitHub</a></li>
-        </nav>
-      </div><!-- end header -->
+
 
       <section>
         <div id="title">
           <h1>Placekitten Bookmarklet</h1>
           <p>Making placekittens is now about 4,000% easier.</p>
+          <div class="maintained">Project maintained by <a href="https://github.com/mutewinter">mutewinter</a></div>
           <hr>
         </div>
 
@@ -96,7 +104,9 @@
           <li>Make kittens.</li>
         </ol>
       </section>
-      <span class="credits left">Project maintained by <a href="https://github.com/mutewinter">mutewinter</a></span>
+      <div class="center">
+        <a href="https://github.com/mutewinter/placekitten_bookmarklet">View On GitHub</a>
+      </div>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
