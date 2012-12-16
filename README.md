@@ -4,4 +4,4 @@ Making placekittens is now about 4,000% easier.
 
 [Go here to get the bookmarklet.][bookmarklet]
 
- [bookmarklet]: http://mutewinter.github.com/placekitten_bookmarket
+ [bookmarklet]: http://mutewinter.github.com/placekitten_bookmarklet/
