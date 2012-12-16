@@ -1,0 +1,19 @@
+{
+  "name": "placekitten_bookmarklet",
+  "version": "1.0.0",
+  "description": "Making placekittens is now about 4,000% easier.",
+  "main": "placekitten_bookmarklet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mutewinter/placekitten_bookmarklet.git"
+  },
+  "keywords": [
+    "bookmarklet",
+    "prototyping"
+  ],
+  "author": "Jeremy Mack",
+  "license": "BSD"
+}
