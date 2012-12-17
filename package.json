@@ -15,5 +15,8 @@
     "prototyping"
   ],
   "author": "Jeremy Mack",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "bookmarkletify": "0.0.1"
+  }
 }
